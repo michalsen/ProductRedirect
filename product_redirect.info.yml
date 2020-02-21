@@ -1,0 +1,6 @@
+name: Product Redirect
+type: module
+description: 'Redirect from stock number to title url'
+package: SN Custom
+version: '8.1.0'
+core: 8.x
